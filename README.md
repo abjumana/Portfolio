@@ -1,5 +1,5 @@
 # Portfolio
-🗃️This repository will showcase my SQL skills.
+🗃️This repository will showcase my skills related to Business Intelligence & Analytics.
 
 [Star Schema Script](https://github.com/biochem123/Portfolio/blob/main/StarSchemaScript.ipynb)
 
