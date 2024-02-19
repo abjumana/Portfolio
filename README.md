@@ -9,4 +9,4 @@ SQL
 
 [Entity Relationship Diagram](https://github.com/biochem123/Portfolio/blob/main/Entity%20Relationship%20Diagram.png)
 
-[Example Quries](https://github.com/biochem123/Portfolio/blob/main/ExampleQueries.ipynb)
+[Example Queries](https://github.com/biochem123/Portfolio/blob/main/ExampleQueries.ipynb)
