@@ -1,5 +1,5 @@
 # Portfolio
-🗃️This repository will showcase my skills related to Business Intelligence & Analytics.
+🗃️This repository will showcase my skills acquired throughout my Business Intelligence & Analytics certificate at NSCC.
 
 SQL
 
