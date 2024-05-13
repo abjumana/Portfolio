@@ -4,7 +4,7 @@
 
 
 ## 👩‍🎓 Capstone Project
-For my final project, I utilized the Action for Health dataset and analyzed measures relating to emergency services and hospital occupancy. My [project proposal](https://github.com/abjumana/Portfolio/blob/main/Capstone%20Project%20-%20Nova%20Scotia%20Healthcare%20(Action%20for%20Health)/Project%20Proposal.md) includes more details on the data, my objectives and the tools used. I presented my findings in a 6-minute [report](https://youtu.be/aMrKo2nOu3U).  
+For my final project, I utilized the Action for Health dataset and analyzed measures relating to emergency services and hospital occupancy. My [project proposal](https://github.com/abjumana/Portfolio/blob/main/Capstone%20Project%20-%20Nova%20Scotia%20Healthcare%20(Action%20for%20Health)/Project%20Proposal.md) includes more details on the data, my objectives and the tools used. I presented my findings in a ***6-minute [report](https://youtu.be/aMrKo2nOu3U).***  
 
 Further, I created a regression model in attempt to predict the number of emergency visits at all hospitals in NS. You can view my model [here](https://youtu.be/Z-BIl2x6siQ). I also created a [data loading tutorial](https://youtu.be/p8fcV-YeuZ8), showing how to load pandas dataframes to MS SQL.
 
